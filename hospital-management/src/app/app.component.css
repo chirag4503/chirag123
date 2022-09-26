@@ -1,0 +1,15 @@
+.nav-option
+{
+    font-size: 29px;
+}
+
+.activate
+{
+    background-color: black;
+    padding: 0 10px 0 10px;
+    border-radius: 10px;
+}
+.text-center
+{
+    background-color: darkgray;
+}
